@@ -1,6 +1,6 @@
 print("hello world")
 for i in range(10):
     print(i)    
-print("niaaaaaaaaa")
+print("good day nieswhar")
 print("New Feature")
-print("kill the bsf")
+print("kill the bsf") 
