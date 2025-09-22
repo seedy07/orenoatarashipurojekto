@@ -3,4 +3,4 @@ for i in range(10):
     print(i)    
 print("niaaaaaaaaa")
 print("New Feature")
-print("kiss the girlfriend")
+print("kill the bsf")
